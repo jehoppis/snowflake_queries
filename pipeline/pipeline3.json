@@ -33,9 +33,6 @@
 								"value": "@activity('Web1').output",
 								"type": "Expression"
 							}
-						},
-						{
-							"type": "Query"
 						}
 					],
 					"scriptBlockExecutionTimeout": "02:00:00"
