@@ -1,0 +1,9 @@
+{
+	"name": "jehoppis-data-factory-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "051c4ec3-0d23-48a0-83cc-0907178d4540",
+		"tenantId": "31c04057-5b83-4a22-8421-2a2d66077b72"
+	}
+}
